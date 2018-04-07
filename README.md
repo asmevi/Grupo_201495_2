@@ -2,3 +2,4 @@
 Proyecto en Grupo Diplomado Computación Móvil - 2018 
 
 Aqui debemos trabajar.
+Estoy de acuerdo
